@@ -1,0 +1,12 @@
+{
+  "repo": {
+    "type": "git",
+    "provider": "github",
+    "scope": "TheoryLabs",
+    "namespace": "Int",
+    "links": {
+      "url": "https://github.com/TheoryLabs/Int.git",
+      "alt": "TheoryLabs/Int"
+    }
+  }
+}

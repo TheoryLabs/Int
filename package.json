@@ -1,0 +1,10 @@
+{
+  "name": "@theorylabs/int-monorepo",
+  "private": true,
+  "workspaces": [
+    "workspaces/**/*"
+  ],
+  "devDependencies": {
+    "oao": "^2.0.2"
+  }
+}
